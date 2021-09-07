@@ -1,0 +1,49 @@
+#mySearch{
+    margin-left: 10vh;
+    width: 60vh;;
+}
+.noShadow:focus{
+    box-shadow: none;
+}
+.myMargin{
+    margin-left: 14vh;
+
+}
+.mySize{
+    height: 100vh;
+}
+
+.myBoxshadow:hover{
+    box-shadow: 15px 10px 20px -10px gray;
+}
+
+.myBoxshadow{
+    transition: box-shadow 1s;
+}
+.imgSize{
+    height: 40vh;
+}
+.textSize{
+    height: 20vh;
+}
+.myHeight{
+    height: 70vh;
+}
+.bgRose{
+    background-color: rgb(238, 185, 211);
+}
+.txtRose{
+    color: rgb(255, 123, 244);
+    
+}
+.txtShadow{
+    text-shadow: 1px 1px 1px rgb(184, 177, 177);
+}
+.imgCover{
+    object-fit: cover;
+    height: calc(100vh - 56px);
+}
+#myFooter{
+    height: 5vh;
+    border-radius: 15px 15px 0px 0px;
+}
